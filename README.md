@@ -1,4 +1,4 @@
-#Friendly Chat app using flutter
+# Friendly Chat app using flutter
 
 ## Getting Started
 
